@@ -10,7 +10,7 @@
 
 Спасибо за посещение моего репозитория!
 
-[Таблица проектов итоговая.xlsx](https://github.com/OophionN/PythonSQLDataProjects/files/11946406/default.xlsx)
+[Таблица проектов итоговая.xlsx](https://github.com/OophionN/PythonSQLDataProjects/files/11946406/default.xlsx) (Проекты, которые выполнялись локально, в таблице имееют гиперссылки на папки в репозитории)
 С детальной информацией можно ознакомится во вложенной таблице.
 
 
