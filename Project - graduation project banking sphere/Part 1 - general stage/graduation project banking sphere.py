@@ -107,13 +107,7 @@ from scipy import stats as st
 from scipy.stats import mannwhitneyu
 from statistics import mode
 from scipy.stats import ks_2samp
-from sklearn.model_selection import train_test_split
-from sklearn.preprocessing import StandardScaler
-from sklearn.linear_model import LogisticRegression
-from sklearn.metrics import classification_report, confusion_matrix
 
-from sklearn.cluster import KMeans
-from sklearn.preprocessing import StandardScaler
 from sklearn.preprocessing import LabelEncoder
 
 
